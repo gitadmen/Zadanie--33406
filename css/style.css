@@ -1,6 +1,9 @@
 
 
-body {background-color: #f5f5dd;}
+body {
+
+    background-color: #f5f5dd;
+}
 
 
 .square1,.square2,.square3,.square4 {
@@ -12,13 +15,16 @@ body {background-color: #f5f5dd;}
     
 }
 
-.square2{
+.square2 {
+
     background-color: rgba(0, 0, 0, 0.712);
 }
-.square3{
+.square3 {
+    
     background-color: rgba(0, 0, 0, 0.37);
 }
-.square4{
+.square4 {
+
     background-color: rgba(0, 0, 0, 0.11);
 }
 
